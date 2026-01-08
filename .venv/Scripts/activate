@@ -35,7 +35,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV="C:\Users\nkululekom\Documents\Python Project\dfis-demand-forecasting\.venv"
+=======
+VIRTUAL_ENV="C:\Users\nkululekom\Documents\Python Project\practice\dfis-demand-forecasting\.venv"
+>>>>>>> 30019846d57d55f923bedf16a8c6b48fe9809f2d
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -8,7 +8,11 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
+<<<<<<< HEAD
 set VIRTUAL_ENV=C:\Users\nkululekom\Documents\Python Project\dfis-demand-forecasting\.venv
+=======
+set VIRTUAL_ENV=C:\Users\nkululekom\Documents\Python Project\practice\dfis-demand-forecasting\.venv
+>>>>>>> 30019846d57d55f923bedf16a8c6b48fe9809f2d
 
 if not defined PROMPT set PROMPT=$P$G
 
